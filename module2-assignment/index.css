@@ -1,0 +1,29 @@
+div{
+	display: inline-block;
+	width: 30%;
+	box-sizing: border-box;
+	border: 2px solid black; 
+	padding: 0 2% 0 2%;
+	background: #999999;
+	margin: 0 1% 0 1%;
+}
+
+h1{
+	text-align: center;
+}
+
+span{
+	display: block;
+	text-align: center;
+	font-size: 150%;
+	background: #ad9893;
+	
+	box-sizing: border-box;
+	padding: 0 2% 0 2%;
+	border: 2px solid black;
+	width: 50%;
+	
+
+
+}
+	
